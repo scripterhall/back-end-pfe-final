@@ -1,0 +1,57 @@
+[submodule "authentification-service"]
+	path = authentification-service
+	url = https://github.com/scripterhall/authentification-service.git
+[submodule "chefProjetService"]
+	path = chefProjetService
+	url = https://github.com/scripterhall/chefProjetService.git
+[submodule "membreService"]
+	path = membreService
+	url = https://github.com/scripterhall/membreService.git
+[submodule "sprintBacklog"]
+	path = sprintBacklog
+	url = https://github.com/scripterhall/sprintBacklog.git
+[submodule "InitialiserProjetService"]
+	path = InitialiserProjetService
+	url = https://github.com/scripterhall/InitialiserProjetService.git
+[submodule "gateWay"]
+	path = gateWay
+	url = https://github.com/scripterhall/gateWay.git
+[submodule "invitationService"]
+	path = invitationService
+	url = https://github.com/scripterhall/invitationService.git
+[submodule "gestionProductBacklog"]
+	path = gestionProductBacklog
+	url = https://github.com/scripterhall/gestionProductBacklog.git
+[submodule "gestionHistoireTicketService"]
+	path = gestionHistoireTicketService
+	url = https://github.com/scripterhall/gestionHistoireTicketService.git
+[submodule "inscriptionService"]
+	path = inscriptionService
+	url = https://github.com/scripterhall/inscription-service.git
+[submodule "gestionSprintService"]
+	path = gestionSprintService
+	url = https://github.com/scripterhall/gestionSprintService.git
+[submodule "ticketTacheService"]
+	path = ticketTacheService
+	url = https://github.com/scripterhall/ticketTacheService.git
+[submodule "sauvegarder-dossier-service"]
+	path = sauvegarder-dossier-service
+	url = https://github.com/scripterhall/sauvegarder-dossier-service.git
+[submodule "corbeille-service"]
+	path = corbeille-service
+	url = https://github.com/scripterhall/corbeille-service.git
+[submodule "corbeilleService"]
+	path = corbeilleService
+	url = https://github.com/scripterhall/corbeille-service.git
+[submodule "gestionTicketHistoire"]
+	path = gestionTicketHistoire
+	url = https://github.com/scripterhall/gestionHistoireTicketService.git
+[submodule "sauvegarderDossierService"]
+	path = sauvegarderDossierService
+	url = https://github.com/scripterhall/sauvegarder-dossier-service.git
+[submodule "notificationService"]
+	path = notificationService
+	url = https://github.com/scripterhall/notification-service.git
+[submodule "chatBotService"]
+	path = chatBotService
+	url = https://github.com/scripterhall/chat-bot-service.git
